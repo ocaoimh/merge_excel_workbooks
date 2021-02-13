@@ -8,7 +8,7 @@ library(data.table)
 library(xlsx) 
          
 
-setwd("~/UXR/survey_masters_el/my_data") 
+setwd("~/UXR/merge_excel_workbooks/my_data") 
 
 # list the excel files and produce a character vector 
 file.list <- list.files(pattern = '*.xlsx')

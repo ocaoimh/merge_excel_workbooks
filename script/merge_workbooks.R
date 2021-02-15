@@ -1,9 +1,7 @@
 #this cleans up your global environment (optional)
 rm(list = ls())
 
-#library(tidyverse)
 library(readxl)
-#library(xlsx) for writing to xlsx
 library(data.table)
 library(xlsx) 
          
